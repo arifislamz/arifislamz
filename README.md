@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7DF1E&center=true&vCenter=true&repeat=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Arif+Islam" alt="Typing SVG" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2bbc8a&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;MERN+Stack+Expert;Freelance+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;MERN+Stack+Expert;Freelance+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@ Professional Full Stack Developer with expertise in MERN stack development. I sp
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arifislamz&theme=gruvbox&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arifislamz&theme=gruvbox&column=6" alt="GitHub Trophies" />
 </div>
 
 ## 💼 Professional Profiles
@@ -73,11 +73,6 @@ Professional Full Stack Developer with expertise in MERN stack development. I sp
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvs/?username=arifislamz&color=blue&style=flat-square" alt="Profile Views" />
-</div>
-
 <div align="center">
   
 ---
