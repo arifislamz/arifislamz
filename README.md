@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifislamz&theme=vue" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifislamz&theme=gruvbox" alt="Profile Details" />
 </div>
 
 ## 👨‍💻 About Me
